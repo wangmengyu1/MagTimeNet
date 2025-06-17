@@ -1,1 +1,3 @@
 # MagTimeNet
+
+MagTimeNet is a time series semantic segmentation model designed to automatically detect infrastructure interference events in geomagnetic field observation data. Based on an encoder-decoder architecture, MagTimeNet integrates convolutional neural networks (CNNs), the Mamba sequential modeling mechanism, and Swin Transformers for adaptive multi-branch feature fusion. It achieves high-precision segmentation of disturbance events, addressing the limitations of traditional manual methods in efficiency and scalability. This repository includes model code, data preprocessing scripts, training pipeline, and evaluation metrics tailored for dense, multi-channel geomagnetic time series data.
